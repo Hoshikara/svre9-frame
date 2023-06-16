@@ -1,6 +1,6 @@
 # Description
 
-Documentation for my custom [SVRE9](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=313) frame. This is not strictly a guide but a resource for those interested in creating their own controller frames.
+Documentation for my custom [SVRE9](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=313) frame. This is not strictly a guide but a resource for those interested in creating their own controller frames. See the [wiki](https://github.com/Hoshikara/svre9-frame/wiki) for more information.
 
 # Images
 ![Top panel](https://github.com/Hoshikara/svre9-frame/blob/main/images/complete_01.jpg)
