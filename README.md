@@ -1,1 +1,9 @@
-# svre9-frame
+# Description
+
+Documentation for my custom [SVRE9](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=313) frame. This is not strictly a guide but a resource for those interested in creating their own controller frames.
+
+# Images
+![Top panel](https://github.com/Hoshikara/svre9-frame/blob/main/images/complete_01.jpg)
+![Assembled frame](https://github.com/Hoshikara/svre9-frame/blob/main/images/complete_02.jpg)
+![Controller bottom top down](https://github.com/Hoshikara/svre9-frame/blob/main/images/complete_03.jpg)
+![Controller bottom side view](https://github.com/Hoshikara/svre9-frame/blob/main/images/complete_04.jpg)
